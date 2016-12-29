@@ -8,4 +8,7 @@ Useful links
 - [Linux FBTFT driver](https://github.com/notro/fbtft)
 - [Waveshare overlays](https://github.com/swkim01/waveshare-dtoverlays)
 - [Arduino UTFT library](http://www.rinkydinkelectronics.com/library.php?id=51)
+- STM32 Discovery for Linux
+  - [Development](http://www.wolinlabs.com/blog/linux.stm32.discovery.gcc.html)
+  - [Source](https://github.com/rowol/stm32_discovery_arm_gcc)
 
